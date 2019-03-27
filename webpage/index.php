@@ -9,7 +9,7 @@
 		<h1>Registration Form</h1>
 
 		<p>
-			This form validates user input and then displays "Thank You" page.
+			This form validates user input and then displays "Thank You!" page.
 		</p>
 		
 		<hr />
